@@ -7,5 +7,5 @@ This is a simple application that helps to add the task which is to be done late
 - CSS
 - JavaScript
 - jQuery
-### Things to keep in mind while developing extension
+### Things to keep in mind while using this Application
 - This will keep track of all your task untill this webpage is open, if it closes, your data (task will delete).
